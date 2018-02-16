@@ -1,5 +1,5 @@
 # Git
-## branch
+## [branch](https://git-scm.com/docs/git-branch) - List, create, or delete branches
 ```bash
 # List both remote-tracking branches and local branches (-a || --all)
 # with sha1 and commit subject line for each head (-v || -vv || --verborse)
@@ -16,7 +16,7 @@ git branch --no-merged
 git branch -D old-abandoned-feature
 ```
 
-## config
+## [config](https://git-scm.com/docs/git-config) - Get and set repository or global options
 ```bash
 # Check your settings
 git config --list
@@ -41,8 +41,18 @@ git config --global alias.unstage 'reset HEAD --'
 git config --global alias.last 'log -1 HEAD'
 ```
 
-## fetch
+## [fetch](https://git-scm.com/docs/git-fetch) - Download objects and refs from another repository
 ```bash
 # After fetching, remove any remote-tracking references that no longer exist on the remote (-p || --prune)
 git fetch -p
+```
+
+## [remote](https://git-scm.com/docs/git-remote) - Manage set of tracked repositories
+```bash
+# List tracked repositories with urls (-v || --verbose)
+git remote -v
+
+# Remove and add origin
+git remote remove origin
+git remote add origin git@github.com:ranb2002/notes.git 
 ```
