@@ -1,6 +1,9 @@
 # Books
 * [http://www.dev-books.com](http://www.dev-books.com/) - Top of most mentioned books on stackoverflow.com.
 
+# HTML
+* [A free guide to \<head> elements](https://gethead.info/) - A list of everything that *could* go in the head of your document.
+
 # License
 * **[Choose an open source license](https://choosealicense.com/)** - Help developers choose an open source license for their source code.
 
