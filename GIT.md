@@ -39,6 +39,9 @@ git config --global alias.unstage 'reset HEAD --'
 
 ## See the last commit easily (git last)
 git config --global alias.last 'log -1 HEAD'
+
+## Set the push default config to simple
+git config --global push.default simple
 ```
 
 ## [fetch](https://git-scm.com/docs/git-fetch) - Download objects and refs from another repository
