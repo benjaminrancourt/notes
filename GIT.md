@@ -57,5 +57,8 @@ git remote -v
 
 # Remove and add origin
 git remote remove origin
-git remote add origin git@github.com:ranb2002/notes.git 
+git remote add origin git@github.com:ranb2002/notes.git
+
+# Update the origin
+git remote set-url origin git@github.com:ranb2002/udes-language-mixin.git
 ```
