@@ -48,6 +48,9 @@ git config --global push.default simple
 ```bash
 # After fetching, remove any remote-tracking references that no longer exist on the remote (-p || --prune)
 git fetch -p
+
+# Fetch all branches from all remote
+git feth --all
 ```
 
 ## [remote](https://git-scm.com/docs/git-remote) - Manage set of tracked repositories
