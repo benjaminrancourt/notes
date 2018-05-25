@@ -7,6 +7,9 @@
 # License
 * **[Choose an open source license](https://choosealicense.com/)** - Help developers choose an open source license for their source code.
 
+# List
+* **[List.community](https://list.community/)** - Curated lists on Github.
+
 # Performance
 * [Dareboost](https://www.dareboost.com/en/report/5a5166ad0cf263e8dc8b73af) - Quality and performance report.
 
