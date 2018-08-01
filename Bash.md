@@ -1,4 +1,6 @@
 # Bash
+## Cheatsheet
+* **[devhints.io](https://devhints.io/bash)**
 
 ## Iterate over directories
 ```bash
