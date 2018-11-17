@@ -1,6 +1,9 @@
 # Books
 * [http://www.dev-books.com](http://www.dev-books.com/) - Top of most mentioned books on stackoverflow.com.
 
+# CSS 
+* [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/#system-font-stack) - A curated collection of useful CSS snippets you can understand in 30 seconds or less.
+
 # HTML
 * [A free guide to \<head> elements](https://gethead.info/) - A list of everything that *could* go in the head of your document.
 
