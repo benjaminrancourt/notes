@@ -3,6 +3,7 @@
 
 # CSS 
 * [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/#system-font-stack) - A curated collection of useful CSS snippets you can understand in 30 seconds or less.
+* [CSS reference](https://cssreference.io/) - A free visual guide to CSS
 
 # HTML
 * [A free guide to \<head> elements](https://gethead.info/) - A list of everything that *could* go in the head of your document.
