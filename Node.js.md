@@ -5,6 +5,9 @@
 npm publish --access public
 ```
 
+## List
+* [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) - Awesome Node.js Security resources
+
 ## Modules
 * [randexp](https://github.com/fent/randexp.js) - Create random strings that match a given regular expression
 
