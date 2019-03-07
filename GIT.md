@@ -42,6 +42,13 @@ git config --global alias.last 'log -1 HEAD'
 
 ## Set the push default config to simple
 git config --global push.default simple
+
+## Add Git completion
+cd ~ && wget https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash
+echo "source ~/git-completion.bash" >> ~/.bashrc
+
+## Add Git branch name to bash prompt
+# Follow instructions on https://coderwall.com/p/fasnya/add-git-branch-name-to-bash-prompt
 ```
 
 ## [fetch](https://git-scm.com/docs/git-fetch) - Download objects and refs from another repository
