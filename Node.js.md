@@ -10,6 +10,8 @@ npm publish --access public
 
 ## Modules
 * [randexp](https://github.com/fent/randexp.js) - Create random strings that match a given regular expression
+* [envalid](https://www.npmjs.com/package/envalid) - Validate and access environment variables in Node.js
+* [limitrr](https://www.npmjs.com/package/limitrr) - NodeJS rate limiting and response delaying using Redis - includes Express middleware
 
 ## Code
 * Obtain a PDF file with `node-fetch` and Express.js
