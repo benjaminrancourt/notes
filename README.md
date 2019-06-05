@@ -30,3 +30,7 @@
 
 # Web
 * [webhint](https://webhint.io/scanner/14fb9213-b392-41a3-8d57-2d3b40f98a3e) - Linting tool that will help you with your site's accessibility, speed, security and more, by checking your code for best practices and common errors.
+
+# TODO
+* https://ipgeolocationapi.com/
+* https://uptimerobot.com/
