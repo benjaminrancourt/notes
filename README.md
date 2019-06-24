@@ -30,6 +30,7 @@
 
 # Web
 * [webhint](https://webhint.io/scanner/14fb9213-b392-41a3-8d57-2d3b40f98a3e) - Linting tool that will help you with your site's accessibility, speed, security and more, by checking your code for best practices and common errors.
+* **[What Web Can Do Today](https://whatwebcando.today/)** - Can I rely on the Web Platform features to build my app? An overview of the device integration HTML5 APIs
 
 # TODO
 * https://ipgeolocationapi.com/ - A free real-time IP to Geolocation JSON API with detailed countries data integration.
