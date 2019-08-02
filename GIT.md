@@ -14,6 +14,9 @@ git branch -d old-merged-feature
 git checkout master
 git branch --no-merged
 git branch -D old-abandoned-feature
+
+# Delete all branches except master
+git branch | grep -v "master" | xargs git branch -D
 ```
 
 ## [config](https://git-scm.com/docs/git-config) - Get and set repository or global options
