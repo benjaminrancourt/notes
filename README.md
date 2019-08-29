@@ -25,6 +25,7 @@
 * [Web Server Security Test - High-Tech Bridge](https://www.htbridge.com/websec/) - Test web server security hardening, implementation of Content Security Policy (CSP) and other HTTP security headers.
 * [SSL Server Test by SSL Labs](https://www.ssllabs.com/ssltest/analyze.html) -  Deep analysis of the configuration of any SSL web server.
 * [Webbkoll by http://dataskydd.net](https://webbkoll.dataskydd.net/) - This tool helps you check what data-protecting measures a site has taken to help you exercise control over your privacy.
+* [https://ssl-config.mozilla.org](moz://a SSL Configuration Generator) - An easy-to-use secure configuration generator for web, database, and mail software.
 
 # Service Worker
 * **[Service Worker Cookbook](https://serviceworke.rs/)** - Collection of working, practical examples of using service workers in modern web sites.
