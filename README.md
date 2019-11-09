@@ -14,6 +14,7 @@
 
 # List
 * **[List.community](https://list.community/)** - Curated lists on Github.
+* [free-for.dev](https://free-for.dev/) - This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
 
 # Performance
 * [Dareboost](https://www.dareboost.com/en/report/5a5166ad0cf263e8dc8b73af) - Quality and performance report.
