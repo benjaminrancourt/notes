@@ -38,3 +38,4 @@
 # TODO
 * https://ipgeolocationapi.com/ - A free real-time IP to Geolocation JSON API with detailed countries data integration.
 * https://uptimerobot.com/
+* https://cunningbot.com
