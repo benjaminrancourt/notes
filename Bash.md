@@ -1,6 +1,7 @@
 # Bash
-## Cheatsheet
-* **[devhints.io](https://devhints.io/bash)**
+## Links
+* [Linux Bash->SED compatible online escape character tool](http://dwaves.de/tools/escape/)
+* **[devhints.io](https://devhints.io/bash)** - Cheatsheet
 
 ## Count the number of lines for files
 ```bash
