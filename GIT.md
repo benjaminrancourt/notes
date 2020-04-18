@@ -15,8 +15,11 @@ git checkout master
 git branch --no-merged
 git branch -D old-abandoned-feature
 
-# Delete all branches except master
+# Delete all local branches except master
 git branch | grep -v "master" | xargs git branch -D
+
+# Update the local list of remote branches
+git remote update origin --prune
 ```
 
 ## [config](https://git-scm.com/docs/git-config) - Get and set repository or global options
