@@ -4,3 +4,4 @@
 * [Gradient Magic](https://www.gradientmagic.com/) - A Gallery of Fantastic and Unique CSS Gradients
 * [GRID](http://grid.malven.co/) - A simple visual cheatsheet
 * [DarkModeDesign](https://darkmodedesign.xyz/) - The best resources for designing and building dark mode experiences across mobile, desktop and the web
+* https://dev.to/davidepacilio/50-free-tools-and-resources-to-create-awesome-user-interfaces-1c1b?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email
