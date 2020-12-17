@@ -40,6 +40,9 @@ git config --global alias.br branch
 git config --global alias.ci commit
 git config --global alias.st status
 
+# https://www.stefanjudis.com/snippets/a-git-alias-to-show-a-detailed-git-branch-overview/
+git config --global alias.zup "for-each-ref --sort='authordate:iso8601' --format='%(color:green)%(authordate:relative)%09%(color:white)%(refname:short) / %(contents:subject)' refs/heads"
+
 ## Unstage a file (git unstage fileA)
 git config --global alias.unstage 'reset HEAD --'
 
